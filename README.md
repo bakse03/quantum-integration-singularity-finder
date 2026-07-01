@@ -1,0 +1,1 @@
+# quantum-integration-singularity-finder
