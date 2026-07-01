@@ -53,4 +53,5 @@ To run this notebook, you need a standard Python 3 environment with the followin
 # 📚 References & Acknowledgments
 This numerical implementation is strictly based on the theoretical frameworks and algorithms detailed in the following academic research regarding the quantum complexity of integration:
 
-* **Goćwin, R.** *O kwantowej złożoności całkowania funkcji z nieznaną osobliwością* (On the Quantum Complexity of Integration of Functions with an Unknown Singularity). AGH University of Krakow.
+* **Goćwin, M.** *ON THE QUANTUM COMPLEXITY OF INTEGRATION
+OF A FUNCTION WITH UNKNOWN SINGULARITY*. AGH University of Krakow.
